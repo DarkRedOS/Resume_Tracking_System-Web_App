@@ -1,5 +1,8 @@
-A simple Resume Tracking android application which can sort resumes based on keywords
+A simple Resume Tracking web application which can sort resumes based on keywords.
 
+
+
+How to deploy:-)
 
 "Recruitment Management System"
 
